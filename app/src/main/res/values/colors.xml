@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#FA4545</color>
+    <color name="colorAccent">#FB5B5B</color>
+
+    <color name="white"> #ffffff</color>
+
+    <color name="transparentWhite">#C1CCCCCC</color>
+    <color name="transparentWhite2">#8FCCCCCC</color>
+    <color name="gray_cart">#6F6767</color>
+</resources>

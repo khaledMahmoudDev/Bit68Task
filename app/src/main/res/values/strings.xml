@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bit68 Market</string>
+    <string name="organic_food">Organic food</string>
+    <string name="organic_food_text">Organic food is the product of a farming system which avoids the use of man-made fertilisers, pesticides; growth regulators and livestock feed additives.</string>
+    <string name="fast_delivery">Fast Delivery</string>
+    <string name="fast_delivery_text">Get products delivered to you the next day for a nominal fee in select markets. Just order by the cutoff time and we\'ll bring your products to you -  so you can have it fresh.</string>
+    <string name="fresh_food">Fresh food</string>
+    <string name="fresh_food_text">Let us choose only the freshest most nutritional vegetables, herbs and fruit when in season and bring it to you in a box every week. We only send you food when it\'s in season, and only send you what is fresh.</string>
+    <string name="name">Name</string>
+    <string name="weight">Weight</string>
+    <string name="price">price</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+    <string name="search">Search</string>
+    <string name="my_cart">My Cart</string>
+</resources>
